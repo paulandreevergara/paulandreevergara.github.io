@@ -110,6 +110,9 @@ a, a:hover {
     .socials a,
     .email a {
       font-size: 20px;
-      line-height: 30px; } }
+      line-height: 30px; }
+
+  .email {
+    margin-bottom: 15px; } }
 
 /*# sourceMappingURL=styles.css.map */
